@@ -10,7 +10,7 @@ This course has truly boosted my technical knowledge and given me a huge advanta
 ### 1️⃣ Module 1
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # Packaging Evolution: From Basic to 3D Integration
 
@@ -31,7 +31,7 @@ Lesson 5: Comparative Analysis And Selecting The Right Packaging Solution
 ### 1️⃣ Module 2
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # From Wafer To Package: Assembly And Manufacturing Essentials
 
@@ -52,7 +52,7 @@ Lesson 5: Wafer Level Packaging And Conclusion
 ### 1️⃣ Module 3
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # Labs: Thermal Simulation Of Semiconductor Packages With Ansys
 
@@ -73,7 +73,7 @@ Lesson 5: Viewing Results And Exploring Other Package Types
 ### 1️⃣ Module 4
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # Ensuring Package Reliability: Testing and Performance Validation
 
@@ -88,7 +88,7 @@ Lesson 2: Reliability And Performance Testing of Semiconductor Packages
 ### 1️⃣ Module 5
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # Package Design And Modeling: Building A Semiconductor Package From Scratch
 
