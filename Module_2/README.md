@@ -3,7 +3,7 @@
 ### 1️⃣ Module 2
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # From Wafer To Package: Assembly And Manufacturing Essentials
 
