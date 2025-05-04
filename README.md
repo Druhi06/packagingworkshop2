@@ -1,5 +1,12 @@
 # packagingworkshop2
 
+As a student, this course was exactly what I needed to build a strong foundation in packaging!
+The VSDIAT Packaging Technology Course is incredibly well-structured and goes into impressive technical depth. Every topic — from packaging materials and machinery to safety regulations and sustainability — is explained in clear, detailed language.
+
+What stood out most was how the course introduced professional terms and industry jargon in a way that was easy to understand and apply. I now feel confident discussing packaging concepts in academic settings!
+
+This course has truly boosted my technical knowledge and given me a huge advantage as I prepare for a career in the packaging and manufacturing industry. I highly recommend it to any student who wants to go beyond the basics and learn what the industry actually demands.
+
 ### 1️⃣ Module 1
 
 <details>
@@ -85,15 +92,15 @@ Lesson 2: Reliability And Performance Testing of Semiconductor Packages
 
 # Package Design And Modeling: Building A Semiconductor Package From Scratch
 
-Lesson 1: 
+Lesson 1: Introduction To Package Cross-Section Modelling In Ansys Electronics Desktop
 
-Lesson 2: 
+Lesson 2: Creating The Die And Substrate In AEDT
 
-Lesson 3: 
+Lesson 3: Adding Die Attach And Bond Pads
 
-Lesson 4: 
+Lesson 4: Wire Bond Creation and Material Assignment
 
-Lesson 5: 
+Lesson 5: Applying Mold Compound and Finalizing the Package Model 
 
 </details>
 
