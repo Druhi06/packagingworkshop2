@@ -3,7 +3,7 @@
 ### 1️⃣ Module 3
 
 <details>
-<summary>Click to expand Makefile description</summary>
+<summary>Click to expand Module description</summary>
 
 # Labs: Thermal Simulation Of Semiconductor Packages With Ansys
 
