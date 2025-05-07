@@ -5,6 +5,8 @@
 <details>
 <summary>Click to expand Makefile description</summary>
 
+Word Document Available
+
 # Packaging Evolution: From Basic to 3D Integration
 
 Lesson 1: Introduction to Semiconductor Packaging And Industry Overview
