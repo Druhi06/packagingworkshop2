@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a89185da-9fc1-440a-b102-829da7bfdd8b)# Packagingworkshop
+# Packagingworkshop
 
 ### 1️⃣ Module 3
 
@@ -32,6 +32,7 @@ Lesson 3
 Trace and source 1 removed to avoid boundary overlap.
 
 ![image](https://github.com/user-attachments/assets/221601df-86dc-488a-8768-b4f458e274e3)
+![image](https://github.com/user-attachments/assets/a89185da-9fc1-440a-b102-829da7bfdd8b)
 
 Monitors assigned to die, die underfill and substrate.
 
