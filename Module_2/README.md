@@ -5,6 +5,8 @@
 <details>
 <summary>Click to expand Module description</summary>
 
+Word Documents Available
+
 # From Wafer To Package: Assembly And Manufacturing Essentials
 
 Lesson 1
